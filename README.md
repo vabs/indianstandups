@@ -1,6 +1,6 @@
 # Indianstandups
 This repository is for maintaining list for standup comic artist from India.
-Website can be viewed at: http://www.indianstandups.com/
+Website can be viewed at: https://www.indianstandups.com/
 
 If there is a comic which is not part of the website yet, please create a new issue in the repository.
 There is a sepecific issue format which should be followed. The format is mentioned below:
