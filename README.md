@@ -25,6 +25,7 @@ Twitter|....|
 |---|---|
 |1.0|August 13, 2018|
 |2.0|Spetember 1, 2018|
+|2.1|Spetember 11, 2018|
 
 
 
@@ -42,3 +43,8 @@ Twitter|....|
 ![Version 2 Header](https://user-images.githubusercontent.com/2936128/44955977-736c5700-ae8a-11e8-9dea-3cfcdda61118.png)
 
 ![Version 2 Footer](https://user-images.githubusercontent.com/2936128/44955980-7a936500-ae8a-11e8-9c5b-9bdc584b24c0.png)
+
+
+## Version 2.1
+
+Added Top 10 and new UI on comics page
