@@ -58,3 +58,9 @@ Added Top 10 and new UI on comics page
 ![Version 3 Footer](https://user-images.githubusercontent.com/2936128/45599166-ddb9e700-b9b4-11e8-9fbd-13e63be183e3.png)
 
 
+### Version 4
+Adding live shows
+![Version 4 Header](https://user-images.githubusercontent.com/2936128/47107805-23114480-d1ff-11e8-9929-f72a6a2a5460.png)
+
+![Version 4 LiveShows](https://user-images.githubusercontent.com/2936128/47107806-23114480-d1ff-11e8-8d61-d534db95013f.png)
+
