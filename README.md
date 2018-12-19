@@ -28,6 +28,7 @@ Twitter|....|
 |2.1|Septmeber 11, 2018|
 |3.0|Septmeber 16, 2018|
 |4.0|October 16, 2018|
+|5.0|December 19, 2018|
 
 
 
@@ -64,4 +65,10 @@ Adding live shows
 ![Version 4 Header](https://user-images.githubusercontent.com/2936128/47107805-23114480-d1ff-11e8-9929-f72a6a2a5460.png)
 
 ![Version 4 LiveShows](https://user-images.githubusercontent.com/2936128/47107806-23114480-d1ff-11e8-8d61-d534db95013f.png)
+
+
+### Version 5
+Adding video duration and page formatting
+![Version 5 Home Page](https://user-images.githubusercontent.com/2936128/50248465-2b296400-03a9-11e9-913e-4b87ec1b9e05.png)
+
 
