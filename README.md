@@ -15,7 +15,7 @@ There is a sepecific issue format which should be followed. The format is mentio
 |Website|....|
 |Youtube|....|
 |Instagram|....|
-Twitter|....|
+|Twitter|....|
 |Facebook|....|
 ```
 
