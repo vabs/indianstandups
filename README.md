@@ -29,6 +29,7 @@ There is a sepecific issue format which should be followed. The format is mentio
 |3.0|Septmeber 16, 2018|
 |4.0|October 16, 2018|
 |5.0|December 19, 2018|
+|6.0|August 8, 2019|
 
 
 
@@ -94,5 +95,13 @@ Adding live shows
   
 Adding video duration and page formatting
 ![Version 5 Home Page](https://user-images.githubusercontent.com/2936128/50248465-2b296400-03a9-11e9-913e-4b87ec1b9e05.png)
+
+</details>
+
+
+<details><summary>Version 6</summary>
+
+Adding booking features for comics
+![Version 6 Booking Page](https://user-images.githubusercontent.com/2936128/62784028-8b315f80-ba8b-11e9-9248-d22e69d80f24.png)
 
 </details>
